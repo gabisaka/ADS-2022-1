@@ -6,7 +6,7 @@ Algoritmo "exercicio 6"
 // Data atual  : 05/03/2022
 Var
 // Se��o de Declara��es das vari�veis 
-salariofixo, valorvendas, comissao, salariofinal: real
+salariofixo, valorvendas, comissao, salariofinal, alo: real
 
 Inicio
 // Se��o de Comandos, procedimento, fun��es, operadores, etc... 
