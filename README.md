@@ -1,2 +1,2 @@
 # ADS-2022-1
-Lógica de Programação
+Lógica de programação - 1º Semestre
